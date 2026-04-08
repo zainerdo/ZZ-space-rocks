@@ -20,8 +20,8 @@ with(other) instance_destroy();
 /// @DnDArgument : "type" "3"
 /// @DnDArgument : "where" "1"
 /// @DnDArgument : "size" "1"
-/// @DnDArgument : "color" "$FFFF0010"
-effect_create_above(3, x + 0, y + 0, 1, $FFFF0010 & $ffffff);
+/// @DnDArgument : "color" "$FFFF1B02"
+effect_create_above(3, x + 0, y + 0, 1, $FFFF1B02 & $ffffff);
 
 /// @DnDAction : YoYo Games.Random.Get_Random_Number
 /// @DnDVersion : 1
